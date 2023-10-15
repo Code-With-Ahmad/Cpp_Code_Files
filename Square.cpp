@@ -10,7 +10,7 @@ cout << "-----------------------" << endl;
 cout << "\n" << endl;
 cout << "Your Answer is :-" << endl;
 cout << "\n" << endl;
-cout << val * val << endl;
+cout << "Square of " << val << " is = "<< val * val << endl;
 return 0;
 }
 
